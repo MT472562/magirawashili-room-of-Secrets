@@ -1,7 +1,0 @@
-AuthType Basic
-AuthName "[homepage]"
-AuthUserFile "[top_page_file\top_file\.htpasswd]"
-require valid-user
-<Files ~ "^\.ht">
-   deny from all
-</Files>
