@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "secret room"
+AuthUserFile "[/home/users/1/cocotte.jp-magenta/web/test/top_page_file\top_file\.htpasswd"
+require valid-user
